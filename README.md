@@ -28,9 +28,9 @@
 - Cursor IA
 - Claud IA
 
- # Tecnica de engenharia de prompts 
- # Primeira tecnica é zero-shot
- ### Pergunta para IA(Copilot)
+ #### Tecnica de engenharia de prompts 
+ #### Primeira tecnica é zero-shot
+  Pergunta para IA(Copilot)
  # me de a lista de melhores torcidas de futebol do Brasil
 Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesquisas recentes:
 
