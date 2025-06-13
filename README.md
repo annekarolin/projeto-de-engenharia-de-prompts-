@@ -28,7 +28,7 @@
 - Cursor IA
 - Claud IA
 
- #### Tecnica de engenharia de prompts 
+ # Tecnica de engenharia de prompts 
  #### Primeira tecnica é zero-shot
   Pergunta para IA(Copilot)
  # me de a lista de melhores torcidas de futebol do Brasil
@@ -103,7 +103,7 @@ Acrescente o creme de leite e misture bem até obter uma consistência cremosa.
 Desligue o fogo e adicione o açúcar.
 Despeje a cobertura sobre o bolo ainda quente e aproveite!
 
-##### Prompt melhorado:
+## Prompt melhorado:
 
 #### Como eu faço um bolo de chocolate molhado,com (massa de bolo da dona benta,manteiga,leite e 3 ovos) e o modo de preparo pronto,e qual a temperatura do forno devo usar? Como fazer o liquido para deixar o bolo molhado,por exemplos,temos agua e açucar para molhar o bolo,mas quero o bolo molhado com leite e achocolatado,quantos litros de agua usar e quantas colheres de achocolatado.
  
