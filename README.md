@@ -1,25 +1,32 @@
 #   Engenharia de prompt
 # Projeto realizado por um tecnico de analise de densenvolvimento na prooz educaçao.
 # O que é grande modelo de linguagem (LLM)?
- ### O grande modelo de linguagem,é uma inteligencia artificial que possibilita criar e entender textos,sendo assim,os dados que sao  utilizados,sao da internet.Aprendem padroes de como as palavras e as frases se comportam sendo utilizadas juntas.quando ele recebe um nova carga de texto,ela vai tentar prever e continuar esse texto de uma forma mais coerente,botando assim em pratica oque aprendeu no treinamento
+  O grande modelo de linguagem,é uma inteligencia artificial que possibilita criar e entender textos,sendo assim,os dados que sao  utilizados,sao da internet.Aprendem padroes de como as palavras e as frases se comportam sendo utilizadas juntas.quando ele recebe um nova carga de texto,ela vai tentar prever e continuar esse texto de uma forma mais coerente,botando assim em pratica oque aprendeu no treinamento
 
  # O que é significa a sigla GPT?
-  ### A sigla GPT no portugues significa transformador de pré treinamento generativo já no ingles significa generative pretrained transformer, ele é uma inteligencia artificial onde apartir de alguns comandos ele pode gerar conteudos.
+   A sigla GPT no portugues significa transformador de pré treinamento generativo já no ingles significa generative pretrained transformer, ele é uma inteligencia artificial onde apartir de alguns comandos ele pode gerar conteudos.
 
  # O que é Engenharia de Prompts?
- ### engenharia de prompts é um processo onde gera comandos para uma inteligencia artificial baseado em modelos de linguagem, da forma mais simples e mais rapida possivel,sendo assim consegue responder perguntas,atraves de tecnicas e de absorçao de dados
+  Engenharia de prompts é um processo onde gera comandos para uma inteligencia artificial baseado em modelos de linguagem, da forma mais simples e mais rapida possivel,sendo assim consegue responder perguntas,atraves de tecnicas e de absorçao de dados
 
 
 
  # Por que Engenharia de Prompts é crucial para Desenvolvedores de Sistemas?
-  ### Ele é crucial pois ele pode poupar seu tempo,quando voce é objetivo e claro no que voce quer,voce obtem uma resposta mais rapida e objetiva.Ela vai te entender e te responder da forma correta.
+   Ele é crucial pois ele pode poupar seu tempo,quando voce é objetivo e claro no que voce quer,voce obtem uma resposta mais rapida e objetiva.Ela vai te entender e te responder da forma correta.
 
 # Quais são os Princípios Fundamentais da Construção de Prompts?
-### Os principais fundamentos da construçao de um prompt é o saber ser especifico e objetivo no que voce precisa saber ou perguntar,assim vai obter uma resposta mais clara e ter oque voce precisa.Ter etica e se reinventar na hora de perguntar,ou seja ser bastante criativo
+ Os principais fundamentos da construçao de um prompt é o saber ser especifico e objetivo no que voce precisa saber ou perguntar,assim vai obter uma resposta mais clara e ter oque voce precisa.Ter etica e se reinventar na hora de perguntar,ou seja ser bastante criativo
 
 # Cite as principais Ferramentas de IA Generativa Relevantes para Desenvolvimento de Sistemas.
 
- ### As principais ferramentas de IA generativa relevantes sao: Chat GPT,copilot,github,gemini,coudium IA,cursor IA,claud IA
+ ## As principais ferramentas de IA generativa relevantes sao: 
+- Chat GPT 
+- Copilot
+- Github 
+- Gemini 
+- Coudium IA 
+- Cursor IA
+- Claud IA
 
  # Tecnica de engenharia de prompts 
  # Primeira tecnica é zero-shot
@@ -54,7 +61,7 @@ Verifique o pneu – Veja se há objetos perfurantes ou desgaste excessivo.
 Instale o novo pneu – Coloque um lado do pneu no aro e insira a câmara de ar.
 Feche o pneu – Use as espátulas para encaixar o outro lado do pneu no aro.
 Encha e calibre – Certifique-se de que o pneu está bem encaixado antes de inflá-lo.
-Se quiser um tutorial visual, confira este vídeo do Pedaleria no YouTube: "O jeito certo de trocar os pneus da bike" (2). 🚴‍♂️
+ 
 ## Como eu troco o pneu da bicicleta?
 ## Prompt melhorado:
 ### Como eu consigo,com passo a passo trocar o pneu da minha bicicleta com aro tamanho 700 C(um aro 700c é um aro de pneu fino),e qual o tamanho da ferramenta chave de roda deverei usa-lo?Por exemplo,no pneu convencional,utilizamos a chave de roda em cruz,qual utilizar no pneu de aro 700c?
@@ -108,7 +115,6 @@ Para a cobertura, aqueça a manteiga em uma panela e misture o chocolate em pó 
 Acrescente o creme de leite e misture bem até obter uma consistência cremosa.
 Desligue o fogo e adicione o açúcar.
 Despeje a cobertura sobre o bolo ainda quente e aproveite!
-Se quiser mais detalhes, confira a receita completa aqui. 😃🍫
 
 ## Prompt melhorado:
 
