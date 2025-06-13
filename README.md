@@ -1,5 +1,5 @@
 #   Engenharia de prompt
-# Projeto realizado por um tecnico de analise de densenvolvimento na prooz educaçao.
+ Projeto realizado por um tecnico de analise de densenvolvimento na prooz educaçao.
 # O que é grande modelo de linguagem (LLM)?
   O grande modelo de linguagem,é uma inteligencia artificial que possibilita criar e entender textos,sendo assim,os dados que sao  utilizados,sao da internet.Aprendem padroes de como as palavras e as frases se comportam sendo utilizadas juntas.quando ele recebe um nova carga de texto,ela vai tentar prever e continuar esse texto de uma forma mais coerente,botando assim em pratica oque aprendeu no treinamento
 
