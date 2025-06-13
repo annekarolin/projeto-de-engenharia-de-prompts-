@@ -9,8 +9,6 @@
  # O que é Engenharia de Prompts?
   Engenharia de prompts é um processo onde gera comandos para uma inteligencia artificial baseado em modelos de linguagem, da forma mais simples e mais rapida possivel,sendo assim consegue responder perguntas,atraves de tecnicas e de absorçao de dados
 
-
-
  # Por que Engenharia de Prompts é crucial para Desenvolvedores de Sistemas?
    Ele é crucial pois ele pode poupar seu tempo,quando voce é objetivo e claro no que voce quer,voce obtem uma resposta mais rapida e objetiva.Ela vai te entender e te responder da forma correta.
 
@@ -30,6 +28,7 @@
 
  # Tecnica de engenharia de prompts 
  #### Primeira tecnica é zero-shot
+  É um modelo utilizado para  gerar uma resposta sem receber um exemplo
   Pergunta para IA(Copilot)
  # me de a lista de melhores torcidas de futebol do Brasil
 Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesquisas recentes:
@@ -61,6 +60,8 @@ Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesq
  Apliquei a tecnica zero-shot,pois foi um pergunta simples,porem com muitas opinioes diferentes sobre o assunto
 
 # Segunda tecnica é Few-Shot 
+Possui tecnicas como exemplos,para a IA aprender antes de gerar uma resposta
+
 # Como eu troco o pneu da minha bicicleta?
 ## Pergunta para IA(Copilot)
  Trocar o pneu da bicicleta pode parecer complicado, mas com as ferramentas certas e um pouco de prática, fica bem fácil! Aqui estão os passos básicos:
@@ -81,7 +82,7 @@ Encha e calibre – Certifique-se de que o pneu está bem encaixado antes de inf
 
 
 # Terceira tecnica é Prompt de Conhecimento Gerado
-## Essa tecnica é popular pois inclui a capacidade de incorporar conhecimento ou informações para ajudar o modelo a fazer previsões mais precisas
+Essa tecnica é popular pois inclui a capacidade de incorporar conhecimento ou informações para ajudar o modelo a fazer previsões mais precisas
 
 ## Prompt-Me dê uma receita de bolo
  Receita deliciosa de bolo de chocolate fofinho e fácil de fazer:
@@ -104,8 +105,6 @@ Acrescente o creme de leite e misture bem até obter uma consistência cremosa.
 Desligue o fogo e adicione o açúcar.
 Despeje a cobertura sobre o bolo ainda quente e aproveite!
 
-## Prompt melhorado:
-
-#### Como eu faço um bolo de chocolate molhado,com (massa de bolo da dona benta,manteiga,leite e 3 ovos) e o modo de preparo pronto,e qual a temperatura do forno devo usar? Como fazer o liquido para deixar o bolo molhado,por exemplos,temos agua e açucar para molhar o bolo,mas quero o bolo molhado com leite e achocolatado,quantos litros de agua usar e quantas colheres de achocolatado.
+## Prompt melhorado - Como eu faço um bolo de chocolate molhado,com (massa de bolo da dona benta,manteiga,leite e 3 ovos) e o modo de preparo pronto,e qual a temperatura do forno devo usar? Como fazer o liquido para deixar o bolo molhado,por exemplos,temos agua e açucar para molhar o bolo,mas quero o bolo molhado com leite e achocolatado,quantos litros de agua usar e quantas colheres de achocolatado.
  
  #### saida: positiva,foi uma tecnica aplicada bem detalhada e com exeplos especificos.
