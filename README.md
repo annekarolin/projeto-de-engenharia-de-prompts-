@@ -33,6 +33,7 @@
  ### Pergunta para IA(Copilot)
  # me de a lista de melhores torcidas de futebol do Brasil
 Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesquisas recentes:
+
 -Flamengo – 20,1% (43,2 milhões de torcedores)
 
 -Corinthians – 14,5% (31,1 milhões)
@@ -55,9 +56,9 @@ Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesq
 
 -Bahia e Fluminense – 2,8% (6 milhões cada)
 
-### prompt -  Me de a lista de melhores torcidas de futebol do Brasil
+## Prompt -  Me de a lista de melhores torcidas de futebol do Brasil
 ### Saida: Neutro
-###  apliquei a tecnica zero-shot,pois foi um pergunta simples,porem com muitas opinioes diferentes sobre o assunto
+ Apliquei a tecnica zero-shot,pois foi um pergunta simples,porem com muitas opinioes diferentes sobre o assunto
 
 # Segunda tecnica é Few-Shot 
 # como eu troco o pneu da minha bicicleta?
@@ -82,31 +83,7 @@ Encha e calibre – Certifique-se de que o pneu está bem encaixado antes de inf
 # Terceira tecnica é Prompt de Conhecimento Gerado
 ## Essa tecnica é popular pois inclui a capacidade de incorporar conhecimento ou informações para ajudar o modelo a fazer previsões mais precisas
 
-Essa receita tem classificação de 4.4 estrelas de 4113 avaliadores.
-4.4 (4113)
-40 minuto · 10 porções
-
-Bolo de chocolate fácil
-Essa receita tem classificação de 4.2 estrelas de 5 avaliadores.
-4.2 (5)
-1h 0min · 8 porções
-
-Receitas bolo de chocolate
-Essa receita tem classificação de 4.7 estrelas de 15675 avaliadores.
-4.7 (15675)
-40 minuto · 8 porções
-
-Bolo de chocolate húmido e fofinho
-Essa receita tem classificação de 4.4 estrelas de 44 avaliadores.
-4.4 (44)
-1h 0min · 570 calorias · 10 porções
-
-Receita de A Melhor Receita de Bolo de Chocolate
-Essa receita tem classificação de 4.1 estrelas de 1653 avaliadores.
-4.1 (1653)
-47 minuto · 275 calorias
-Exibir receita
-Aqui está uma receita deliciosa de bolo de chocolate fofinho e fácil de fazer:
+ Receita deliciosa de bolo de chocolate fofinho e fácil de fazer:
 Ingredientes:
 4 ovos
 11 colheres de chocolate em pó
