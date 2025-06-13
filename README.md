@@ -61,7 +61,7 @@ Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesq
  Apliquei a tecnica zero-shot,pois foi um pergunta simples,porem com muitas opinioes diferentes sobre o assunto
 
 # Segunda tecnica é Few-Shot 
-# como eu troco o pneu da minha bicicleta?
+# Como eu troco o pneu da minha bicicleta?
 ## Pergunta para IA(Copilot)
  Trocar o pneu da bicicleta pode parecer complicado, mas com as ferramentas certas e um pouco de prática, fica bem fácil! Aqui estão os passos básicos:
 Remova a roda – Se for a roda traseira, coloque a corrente na marcha mais leve para facilitar a retirada.
@@ -103,8 +103,8 @@ Acrescente o creme de leite e misture bem até obter uma consistência cremosa.
 Desligue o fogo e adicione o açúcar.
 Despeje a cobertura sobre o bolo ainda quente e aproveite!
 
-## Prompt melhorado:
+##### Prompt melhorado:
 
-### Como eu faço um bolo de chocolate molhado,com (massa de bolo da dona benta,manteiga,leite e 3 ovos) e o modo de preparo pronto,e qual a temperatura do forno devo usar? Como fazer o liquido para deixar o bolo molhado,por exemplos,temos agua e açucar para molhar o bolo,mas quero o bolo molhado com leite e achocolatado,quantos litros de agua usar e quantas colheres de achocolatado.
+#### Como eu faço um bolo de chocolate molhado,com (massa de bolo da dona benta,manteiga,leite e 3 ovos) e o modo de preparo pronto,e qual a temperatura do forno devo usar? Como fazer o liquido para deixar o bolo molhado,por exemplos,temos agua e açucar para molhar o bolo,mas quero o bolo molhado com leite e achocolatado,quantos litros de agua usar e quantas colheres de achocolatado.
  
- ## saida: positiva,foi uma tecnica aplicada bem detalhada e com exeplos especificos.
+ #### saida: positiva,foi uma tecnica aplicada bem detalhada e com exeplos especificos.
