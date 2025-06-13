@@ -83,6 +83,7 @@ Encha e calibre – Certifique-se de que o pneu está bem encaixado antes de inf
 # Terceira tecnica é Prompt de Conhecimento Gerado
 ## Essa tecnica é popular pois inclui a capacidade de incorporar conhecimento ou informações para ajudar o modelo a fazer previsões mais precisas
 
+## Prompt-Me dê uma receita de bolo
  Receita deliciosa de bolo de chocolate fofinho e fácil de fazer:
 Ingredientes:
 4 ovos
