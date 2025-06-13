@@ -30,7 +30,7 @@
  #### Primeira tecnica é zero-shot
   É um modelo utilizado para  gerar uma resposta sem receber um exemplo
   Pergunta para IA(Copilot)
- # me de a lista de melhores torcidas de futebol do Brasil
+ ## Me de a lista de melhores torcidas de futebol do Brasil
 Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesquisas recentes:
 
 -Flamengo – 20,1% (43,2 milhões de torcedores)
