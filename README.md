@@ -33,17 +33,27 @@
  ### Pergunta para IA(Copilot)
  # me de a lista de melhores torcidas de futebol do Brasil
 Aqui está a lista das maiores torcidas de futebol do Brasil, de acordo com pesquisas recentes:
-Flamengo – 20,1% (43,2 milhões de torcedores)
-Corinthians – 14,5% (31,1 milhões)
-Palmeiras – 7,6% (16,3 milhões)
-São Paulo – 7% (15 milhões)
-Vasco da Gama – 6,6% (14,1 milhões)
-Cruzeiro – 5,4% (11,6 milhões)
-Grêmio – 4,6% (9,9 milhões)
-Atlético Mineiro – 4% (8,6 milhões)
-Santos – 3,8% (8,1 milhões)
-Botafogo e Internacional – 2,9% (6,2 milhões cada)
-Bahia e Fluminense – 2,8% (6 milhões cada)
+-Flamengo – 20,1% (43,2 milhões de torcedores)
+
+-Corinthians – 14,5% (31,1 milhões)
+
+-Palmeiras – 7,6% (16,3 milhões)
+
+-São Paulo – 7% (15 milhões)
+
+-Vasco da Gama – 6,6% (14,1 milhões)
+
+-Cruzeiro – 5,4% (11,6 milhões)
+
+-Grêmio – 4,6% (9,9 milhões)
+
+-Atlético Mineiro – 4% (8,6 milhões)
+
+-Santos – 3,8% (8,1 milhões)
+
+-Botafogo e Internacional – 2,9% (6,2 milhões cada)
+
+-Bahia e Fluminense – 2,8% (6 milhões cada)
 
 ### prompt -  Me de a lista de melhores torcidas de futebol do Brasil
 ### Saida: Neutro
